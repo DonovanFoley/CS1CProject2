@@ -1,0 +1,43 @@
+***This Format is NOT required, however if you wish to use it you can***
+
+> (Number of requirement based on). (Requirement) 
+
+# Story: (Number)
+```
+(Your Story)
+```
+
+## Description:
+```
+(Your Description)
+```
+
+### Assumptions:
+```
+(Assumptions)
+```
+
+### Story Point Estimation:
+```
+(Estimation)
+```
+
+### Priority:
+_Requires Planning Poker_
+
+### List of Tasks:
+- [ ] (Task)
+(add more "- [ ]" to add more tasks) 
+
+
+### List of Tests:
+```
+(tests)
+```
+
+### Definition of done:
+```
+(definition of done)
+```
+
+### Assignee:
