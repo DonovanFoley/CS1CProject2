@@ -1,0 +1,15 @@
+debug/adddelete.o
+debug/adddeleteitems.o
+debug/createpurchases.o
+debug/displayitemssold.o
+debug/displayrebate.o
+debug/expiringmembers.o
+debug/main.o
+debug/login_db.o
+debug/moc_adddelete.o
+debug/moc_adddeleteitems.o
+debug/moc_createpurchases.o
+debug/moc_displayitemssold.o
+debug/moc_displayrebate.o
+debug/moc_expiringmembers.o
+debug/moc_login_db.o

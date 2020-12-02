@@ -1,0 +1,15 @@
+release/adddelete.o
+release/adddeleteitems.o
+release/createpurchases.o
+release/displayitemssold.o
+release/displayrebate.o
+release/expiringmembers.o
+release/main.o
+release/login_db.o
+release/moc_adddelete.o
+release/moc_adddeleteitems.o
+release/moc_createpurchases.o
+release/moc_displayitemssold.o
+release/moc_displayrebate.o
+release/moc_expiringmembers.o
+release/moc_login_db.o
