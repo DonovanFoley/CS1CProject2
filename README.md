@@ -28,11 +28,6 @@ o  What is your ETC (estimated time of completion)?
 · 	Please let the team know if you need anything regarding your completion of your responsibilities; don’t be afraid to ask for help.
 · 	Respect one another’s need not to be disturbed 24/7, and keep pings to a minimum.
 
-Signatures (Digital):
-Max: Maximillian Kalb
-Karson: Karson Lant
-Newsha: Newsha Niazmandi
-Saul: Saul Moreno
 
 
 CODING STANDARDS
